@@ -14,7 +14,8 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "前端学习总结、学习资源分享"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# Disqus settings（https://disqus.com/）
+disqus_username: fengxie
 
 # SNS settings
 RSS: false
